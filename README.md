@@ -1,7 +1,7 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-# Fronteend section 19, conection with springBoot
+# Gif App 06
 
 ## Development
 1. Clonar proyecto
